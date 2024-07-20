@@ -1,5 +1,5 @@
 {
-    "name": " Sam flex",
+    "name": " Lucciano",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/H4qeXwa.jpeg",
     "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "sam flex",
+        "value": "Lucciano",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "sam flex"
+        "value": "lucciano"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -94,7 +94,7 @@
       },
       "DISABLE_PM": {
         "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "PREFIX": {
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348064007525"
+        "value": "263717513114"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -111,7 +111,7 @@
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "private"
+        "value": "public"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
