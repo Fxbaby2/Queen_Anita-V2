@@ -1,5 +1,5 @@
 {
-    "name": " Lucciano",
+    "name": "montana",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/H4qeXwa.jpeg",
     "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Lucciano",
+        "value": "montana",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "lucciano"
+        "value": "montana"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "263717513114"
+        "value": "263786184193"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
